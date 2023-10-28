@@ -8,6 +8,10 @@ export let kanji = [
     answer: "発車"
   },
   {
+    hint: "Pronunciation",
+    answer: "発音"
+  },
+  {
     hint: "Doctor",
     answer: "医者"
   },
@@ -36,6 +40,14 @@ export let kanji = [
     answer: "田"
   },
   {
+    hint: "Second (Time)",
+    answer: "秒"
+  },
+  {
+    hint: "Introduce",
+    answer: "紹介"
+  },
+  {
     hint: "World",
     answer: "世界"
   },
@@ -46,5 +58,21 @@ export let kanji = [
   {
     hint: "problem/homework",
     answer: "問題"
+  },
+  {
+    hint: "Heart",
+    answer: "心"
+  },
+  {
+    hint: "Ocean/Sea",
+    answer: "海"
+  },
+  {
+    hint: "Sell",
+    answer: "売る"
+  },
+  {
+    hint: "Family",
+    answer: "家族"
   },
 ]
