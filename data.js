@@ -75,4 +75,24 @@ export let kanji = [
     hint: "Family",
     answer: "家族"
   },
+  {
+    hint: "Mirror",
+    answer: "鏡"
+  },
+  {
+    hint: "Think Over (Again)",
+    answer: "考える"
+  },
+  {
+    hint: "to know",
+    answer: "知る"
+  },
+  {
+    hint: "Heavy",
+    answer: "重い"
+  },
+  {
+    hint: "Light",
+    answer: "軽い"
+  },
 ]
