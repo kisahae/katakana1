@@ -95,4 +95,29 @@ export let kanji = [
     hint: "Light",
     answer: "軽い"
   },
+    {
+    hint: "Many",
+    answer: "多い"
+  },
+  {
+    hint: "Temperature",
+    answer: "温度"
+  },
+  {
+    hint: "Arrival",
+    answer: "到着"
+  },
+   {
+    hint: "Wear",
+    answer: "著る"
+  },
+  {
+    hint: "Gather",
+    answer: "集まる"
+  },
+  {
+    hint: "Collect",
+    answer: "集める"
+  },
+  
 ]
