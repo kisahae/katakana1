@@ -119,5 +119,20 @@ export let kanji = [
     hint: "Collect",
     answer: "集める"
   },
-  
+    {
+    hint: "Head",
+    answer: "頭"
+  },
+      {
+    hint: "Finger",
+    answer: "指"
+  },
+  {
+    hint: "Teeth",
+    answer: "歯"
+  },
+    {
+    hint: "Face",
+    answer: "顔"
+  },
 ]
