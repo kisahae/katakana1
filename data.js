@@ -135,4 +135,24 @@ export let kanji = [
     hint: "Face",
     answer: "顔"
   },
+      {
+    hint: "Pillow",
+    answer: " 枕"
+  },
+        {
+    hint: "Futon",
+    answer: "布団"
+  },
+    {
+    hint: "Blanket",
+    answer: "毛布"
+  },
+     {
+    hint: "Soap",
+    answer: "石鹸"
+  },
+       {
+    hint: "Bath",
+    answer: "お風呂"
+  },
 ]
