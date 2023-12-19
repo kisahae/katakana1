@@ -151,8 +151,24 @@ export let kanji = [
     hint: "Soap",
     answer: "石鹸"
   },
-       {
+  {
     hint: "Bath",
     answer: "お風呂"
+  },
+  {
+    hint: "Interesting",
+    answer: "面白い"
+  },
+  {
+    hint: "Nephew",
+    answer: "甥"
+  },
+  {
+    hint: "Niece",
+    answer: "従姉妹"
+  },
+  {
+    hint: "Frog",
+    answer: "蛙"
   },
 ]
