@@ -171,4 +171,12 @@ export let kanji = [
     hint: "Frog",
     answer: "蛙"
   },
+  {
+    hint: "Sushi",
+    answer: "寿司"
+  },
+  {
+    hint: "Magazine",
+    answer: "雑誌"
+  },
 ]
