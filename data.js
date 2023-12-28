@@ -164,7 +164,7 @@ export let kanji = [
     answer: "甥"
   },
   {
-    hint: "Niece",
+    hint: "Cousins",
     answer: "従姉妹"
   },
   {
@@ -179,4 +179,49 @@ export let kanji = [
     hint: "Magazine",
     answer: "雑誌"
   },
+  {
+    hint: "Niece",
+    answer: "姪"
+  },
+  {
+    hint: "Medicine",
+    answer: "薬"
+  },
+  {
+    hint: "Neck",
+    answer: "首"
+  },
+  {
+    hint: "Season",
+    answer: "季節"
+  },
+  {
+    hint: "Winter",
+    answer: "冬"
+  },
+  {
+    hint: "Summer",
+    answer: "夏"
+  },
+  {
+    hint: "Autumn",
+    answer: "秋"
+  },
+  {
+    hint: "Spring",
+    answer: "春"
+  },
+  {
+    hint: "Parents",
+    answer: "親"
+  },
+  {
+    hint: "Paper",
+    answer: "紙"
+  },
+   {
+    hint: "Picture",
+    answer: "画"
+  },
+  
 ]
