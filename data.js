@@ -223,5 +223,28 @@ export let kanji = [
     hint: "Picture",
     answer: "画"
   },
-  
+    {
+    hint: "Night",
+    answer: "夜"
+  },
+  {
+    hint: "Turn oneself info",
+    answer: "化ける"
+  },
+  {
+    hint: "Pull",
+    answer: "引く"
+  },
+    {
+    hint: "To carry/transport",
+    answer: "運ぶ"
+  },
+    {
+    hint: "tercemin/mencerminkan",
+    answer: "映す"
+  },
+    {
+    hint: "Turn/spin",
+    answer: "回す"
+  },
 ]
