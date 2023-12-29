@@ -247,4 +247,8 @@ export let kanji = [
     hint: "Turn/spin",
     answer: "回す"
   },
+  {
+    hint: "Turn/spin",
+    answer: "回す"
+  },
 ]
