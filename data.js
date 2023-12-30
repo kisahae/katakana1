@@ -248,7 +248,119 @@ export let kanji = [
     answer: "回す"
   },
   {
-    hint: "Turn/spin",
-    answer: "回す"
+    hint: "Lightning",
+    answer: "雷"
+  },
+   {
+    hint: "Lightning",
+    answer: "雷"
+  },
+     {
+    hint: "Moss",
+    answer: "苔"
+  },
+  {
+    hint: "Airport",
+    answer: "空港"
+  },
+   {
+    hint: "Ice",
+    answer: "氷"
+  }, 
+    {
+    hint: "Caterpillar",
+    answer: "毛虫"
+  },
+    {
+    hint: "Muscle",
+    answer: "筋肉"
+  },
+    {
+    hint: "Air Force",
+    answer: "空軍"
+  },
+     {
+    hint: "Shell",
+    answer: "貝"
+  },
+     {
+    hint: "Watermelon",
+    answer: "西瓜"
+  },
+       {
+    hint: "Empty",
+    answer: "空"
+  },
+        {
+    hint: "Tree",
+    answer: "木"
+  },
+  {
+    hint: "Fast (Adjective)",
+    answer: "速い"
+  },
+  {
+    hint: "Fast (Adverb)",
+    answer: "早く"
+  },
+   {
+    hint: "A little",
+    answer: "少し"
+  },
+     {
+    hint: "Gate",
+    answer: "門"
+  },
+  {
+    hint: "Road",
+    answer: "道"
+  },
+    {
+    hint: "Station",
+    answer: "駅"
+  },
+      {
+    hint: "behind",
+    answer: "後ろ"
+  },
+  {
+    hint: "West",
+    answer: "西"
+  },
+   {
+    hint: "South",
+    answer: "南"
+  },
+    {
+    hint: "North",
+    answer: "北"
+  },
+      {
+    hint: "Monday",
+    answer: "月曜日"
+  },
+  {
+    hint: "Tuesday",
+    answer: "火曜日"
+  },
+   {
+    hint: "Wednesday",
+    answer: "水曜日"
+  },
+     {
+    hint: "Thursday",
+    answer: "木曜日"
+  },
+  {
+    hint: "Friday",
+    answer: "金曜日"
+  },
+   {
+    hint: "Saturday",
+    answer: "土曜日"
+  },
+     {
+    hint: "Sunday",
+    answer: "日曜日"
   },
 ]
