@@ -363,4 +363,8 @@ export let kanji = [
     hint: "Sunday",
     answer: "日曜日"
   },
+      {
+    hint: "Maybe",
+    answer: "多分"
+  },
 ]
