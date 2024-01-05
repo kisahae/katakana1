@@ -251,10 +251,6 @@ export let kanji = [
     hint: "Lightning",
     answer: "雷"
   },
-   {
-    hint: "Lightning",
-    answer: "雷"
-  },
      {
     hint: "Moss",
     answer: "苔"
@@ -363,8 +359,37 @@ export let kanji = [
     hint: "Sunday",
     answer: "日曜日"
   },
-      {
+  {
     hint: "Maybe",
     answer: "多分"
   },
+    {
+    hint: "Sweat",
+    answer: "汗"
+  },
+   {
+    hint: "Currently, at present",
+    answer: "現在"
+  },
+   {
+    hint: "Safety/Security",
+    answer: "安全"
+  },
+   {
+    hint: "Cold",
+    answer: "寒い"
+  },
+  {
+    hint: "Planet",
+    answer: "惑星"
+  },
+   {
+    hint: "Planet",
+    answer: "惑星"
+  },   
+  {
+    hint: "Hobby",
+    answer: "趣味"
+  },
+  
 ]
