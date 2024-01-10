@@ -384,12 +384,35 @@ export let kanji = [
     answer: "惑星"
   },
    {
-    hint: "Planet",
-    answer: "惑星"
+    hint: "Bookshelf",
+    answer: "本棚"
   },   
   {
     hint: "Hobby",
     answer: "趣味"
   },
-  
+   {
+    hint: "Envelope",
+    answer: "封筒"
+  },
+     {
+    hint: "Postage Stamp",
+    answer: "切手"
+  },
+  {
+    hint: "Fox",
+    answer: "狐"
+  },
+   {
+    hint: "Plate",
+    answer: "皿"
+  },
+     {
+    hint: "Chopstick",
+    answer: "箸"
+  },
+  {
+    hint: "Refrigerator",
+    answer: "冷蔵庫"
+  },
 ]
