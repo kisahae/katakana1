@@ -82,5 +82,89 @@ export let kanji = [
             {
     hint: "Restaurant",
     answer: "レストラン"
+  },
+              {
+    hint: "Present",
+    answer: "プレゼント"
+  },
+                {
+    hint: "Juice",
+    answer: "ジュース"
+  },
+                  {
+    hint: "Bread",
+    answer: "パン"
+  },
+                   {
+    hint: "Ice Cream",
+    answer: "アイスクリーム"
+  },
+                     {
+    hint: "Party",
+    answer: "パーティー"
+  },
+                       {
+    hint: "Menu",
+    answer: "メニュー"
+  },
+  {
+    hint: "Potato",
+    answer: "ポテト"
+  },
+    {
+    hint: "Cheese Burger",
+    answer: "チーズバーガー"
+  },
+    {
+    hint: "Potato",
+    answer: "ポテト"
+  },
+      {
+    hint: "Spaghetti",
+    answer: "スパゲッティ"
+  },
+      {
+    hint: "Potato",
+    answer: "ポテト"
+  },
+        {
+    hint: "Sandwich",
+    answer: "サンドイッチ"
+  },
+          {
+    hint: "Ticket",
+    answer: "チケット"
+  },
+          {
+    hint: "Calender",
+    answer: "カレンダー"
+  },
+           {
+    hint: "Coffee",
+    answer: "コーヒー"
+  },
+             {
+    hint: "Part Time Job",
+    answer: "アルバイト"
+  },
+               {
+    hint: "PC",
+    answer: "パソコン"
+  },
+                 {
+    hint: "Hotel",
+    answer: "ホテル"
+  },
+                   {
+    hint: "Elevator",
+    answer: "エレベーター"
+  },
+                     {
+    hint: "Ink",
+    answer: "インク"
+  },
+                       {
+    hint: "Quiz",
+    answer: "クイズ"
   }
 ]
