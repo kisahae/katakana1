@@ -108,16 +108,16 @@ export let kanji = [
     answer: "メニュー"
   },
   {
-    hint: "Potato",
-    answer: "ポテト"
+    hint: "Department Store",
+    answer: "デパート"
   },
     {
     hint: "Cheese Burger",
     answer: "チーズバーガー"
   },
     {
-    hint: "Potato",
-    answer: "ポテト"
+    hint: "Dice",
+    answer: "サイコロ"
   },
       {
     hint: "Spaghetti",
@@ -166,5 +166,121 @@ export let kanji = [
                        {
     hint: "Quiz",
     answer: "クイズ"
+  },
+                         {
+    hint: "Butter",
+    answer: "バター"
+  },
+                           {
+    hint: "Guitar",
+    answer: "ギター"
+  },
+           {
+    hint: "Gram",
+    answer: "グラム"
+  },
+            {
+    hint: "Handkerchief",
+    answer: "ハンカチ"
+  },
+             {
+    hint: "Camera",
+    answer: "カメラ"
+  },
+             {
+    hint: "Curry",
+    answer: "カレー"
+  },
+             {
+    hint: "Meter",
+    answer: "メートル"
+  },
+               {
+    hint: "Match",
+    answer: "マッチ"
+  },
+                 {
+    hint: "Knife",
+    answer: "ナイフ"
+  },
+                  {
+    hint: "Note Book",
+    answer: "ノート"
+  },
+                  {
+    hint: "Neck tie",
+    answer: "ネクタイ"
+  },
+                    {
+    hint: "News",
+    answer: "ニュース"
+  },
+                    {
+    hint: "Page",
+    answer: "ページ"
+  },
+                      {
+    hint: "Pet",
+    answer: "ペット"
+  },
+                       {
+    hint: "Pocket",
+    answer: "ポケット"
+  },
+                         {
+    hint: "Post",
+    answer: "ポスト"
+  },
+                         {
+    hint: "Swimming Pool",
+    answer: "プール"
+  },
+                           {
+    hint: "Radio",
+    answer: "ラジオ"
+  },
+                           {
+    hint: "Sweater",
+    answer: "セーター"
+  },
+                            {
+    hint: "Shirt",
+    answer: "シャツ"
+  },
+                             {
+    hint: "Shower",
+    answer: "シャワー"
+  },
+                               {
+    hint: "Skirt",
+    answer: "スカート"
+  },
+                               {
+    hint: "Sport",
+    answer: "スポーツ"
+  },
+                               {
+    hint: "Slipper",
+    answer: "スリッパ"
+  },
+                               {
+    hint: "Heater/Stove",
+    answer: "ストーブ"
+  },
+                                {
+    hint: "Taxi",
+    answer: "タクシー"
+  },
+                                 {
+    hint: "Table",
+    answer: "テーブル"
+  },
+                                  {
+    hint: "Tape Recorder",
+    answer: "テープレコーダー"
+  },
+                                  {
+    hint: "Tape Recorder",
+    answer: "テープレコーダー"
   }
 ]
