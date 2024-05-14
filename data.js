@@ -280,7 +280,43 @@ export let kanji = [
     answer: "テープレコーダー"
   },
                                   {
-    hint: "Tape Recorder",
-    answer: "テープレコーダー"
+    hint: "Remote Control",
+    answer: "リモコン"
+  },
+                                    {
+    hint: "Printer",
+    answer: "プリンター"
+  },
+                                    {
+    hint: "Kangaroo",
+    answer: "カンガルー"
+  },
+                                    {
+    hint: "Microwave",
+    answer: "電子レンジ"
+  },
+                                    {
+    hint: "Mayonnaise",
+    answer: "マヨネーズ"
+  },
+                                    {
+    hint: "Cake",
+    answer: "ケーキ"
+  },
+                                    {
+    hint: "Curtain",
+    answer: "カーテン"
+  },
+                                    {
+    hint: "Supermarket",
+    answer: "スーパーマーケット"
+  },
+                                    {
+    hint: "Convenient Store",
+    answer: "コンビニ"
+  },
+                                    {
+    hint: "Convenient Store",
+    answer: "コンビニ"
   }
 ]
