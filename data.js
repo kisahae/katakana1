@@ -316,7 +316,15 @@ export let kanji = [
     answer: "コンビニ"
   },
                                     {
-    hint: "Convenient Store",
-    answer: "コンビニ"
+    hint: "Peanuts",
+    answer: "ピーナッツ"
+  },
+                                    {
+    hint: "Cabbage",
+    answer: "キャベツ"
+  },
+                                   {
+    hint: "Celery",
+    answer: "セロリ"
   }
 ]
